@@ -18,9 +18,9 @@ console.log(data)
         alert("ORDER ID :"+response.razorpay_order_id)
     },
     prefill:{
-        name:"AYUSHI JAIN",
-        EMAIL:"ayushi@gmail.com",
-        contact:"8349343983"
+        name:"JANI SHAIDA",
+        EMAIL:"ms9347474786@gmail.com",
+        contact:"9347474786"
     }
  }
  const paymentObject= new window.Razorpay(options)
